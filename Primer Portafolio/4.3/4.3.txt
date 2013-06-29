@@ -1,0 +1,17 @@
+A) (x/y)+1
+
+B) (x+y)/(x-y)
+
+C)((x+(y/z)/((x+(y/z)
+
+D) b/(c+d)
+
+E) (a+b)*(c/d)
+
+F) pow[(powa+b,2)2]
+
+G) (x+y)/(1-(4*x))
+
+H) (x*y)/(m*n)
+
+I) pow(x+y,2)*(a-b)

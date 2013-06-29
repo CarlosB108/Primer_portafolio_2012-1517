@@ -1,0 +1,15 @@
+El codigo incorrecto:
+if (x=0) 
+	printf("%d = 0\n",x);
+else 
+	printf("%d != 0\n",x);
+
+Lo incorrecto de este codigo es de que las comillas no estan en buena posicion
+para que el if-else pueda funcionar como el programador deseaba.
+
+
+
+
+
+
+

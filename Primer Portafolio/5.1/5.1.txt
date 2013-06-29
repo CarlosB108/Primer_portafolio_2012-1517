@@ -1,0 +1,11 @@
+Los errores de sintaxis que tiene esta sentencia son:
+1-if debe tener dos paréntesis para que este cerrado.
+2-Le falta un punto y coma (;) después de introducirle la variable y el valor de x.
+
+if (x>25.0)
+
+Y=x;
+
+else
+
+Y=z;

@@ -1,0 +1,8 @@
+Las diferencia entre la sentencia de la columna de la izquierda y de la columna de la derecha son:
+
+
+En la primera columna para un valor inicia X=0 entonce  X terminaría valiendo 1. 
+Tambien en esta columna se usa la condicion "else if". 
+
+En la segunda columna para un valor inicia X=0, entonce X terminaría valiendo 3.
+Tambie en esta columna se usa la condicion "if".

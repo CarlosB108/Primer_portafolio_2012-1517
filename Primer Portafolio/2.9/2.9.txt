@@ -1,0 +1,11 @@
+Inicio
+Int i,N,contador
+ Digite el valor a N
+ i=N/2
+ Si N es divisible por 2
+ contador= contador+1
+      Fin si
+    Si contador>0 , imprimir "no es primo"
+    Si no , imprimir "si es primo"
+       Fin
+ 

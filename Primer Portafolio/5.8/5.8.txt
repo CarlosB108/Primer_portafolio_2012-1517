@@ -1,0 +1,6 @@
+El error del codigo es:
+if(x < y < z) 
+printf("%d < %d < %d\n",x,y,z);
+
+el error de este codigo es que no pueden usar el print para decidir.Digo para decidir ya que estan
+usando asignaciones.
